@@ -20,4 +20,5 @@ for x in parser.links:
     print x
     count+=1
 
+
 print count
